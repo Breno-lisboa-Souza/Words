@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>Angel Beats!</item>
+        <item>Bleach</item>
+        <item>Code Geass</item>
+        <item>Death Note</item>
+        <item>Elfen Lied</item>
+        <item>Fullmetal Alchemist</item>
+        <item>Guilty Crown</item>
+        <item>Hunter X Hunter</item>
+        <item>Inazuma Eleven</item>
+        <item>JoJo Bizarre Adventure</item>
+        <item>Kuroko no Basket</item>
+        <item>Little Witch Academia</item>
+        <item>Mahouka Koukou no Rettousei</item>
+        <item>Naruto</item>
+        <item>One Piece</item>
+        <item>Psycho-Pass</item>
+        <item>Quanzhi Fashi</item>
+        <item>Radiant</item>
+        <item>Shingeki no Kyojin</item>
+        <item>Tokyo Ghoul</item>
+        <item>Usaki-Chan Wa Asobitai</item>
+        <item>Violet Evergarden</item>
+        <item>World Trigger</item>
+        <item>Xian Wang</item>
+        <item>Yu-Gi-Oh</item>
+        <item>Zettai Karen</item>
+    </string-array>
+</resources>
