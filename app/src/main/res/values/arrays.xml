@@ -2,11 +2,48 @@
 <resources>
     <string-array name="words">
         <item>Angel Beats!</item>
+        <item>Aggretsuko</item>
+        <item>Ajin</item>
+        <item>Akame ga Kill</item>
+        <item>Another</item>
+        <item>Assassination Classroom</item>
+        <item>Astro Boy</item>
+        <item>Assassins Pride</item>
         <item>Bleach</item>
+        <item>B: The Beginning</item>
+        <item>Baki</item>
+        <item>Bakugan</item>
+        <item>Bayblade</item>
+        <item>Berserk</item>
+        <item>Black Bullet</item>
+        <item>BNA</item>
+        <item>Blue Exorcist</item>
+        <item>Boku no Hero Academy</item>
+        <item>Boruto: Naruto Next Generation</item>
         <item>Code Geass</item>
+        <item>Charlotte</item>
+        <item>Classroom of the Elite</item>
+        <item>Clockwork Planet</item>
         <item>Death Note</item>
+        <item>Dagashi Kashi</item>
+        <item>Darling in the Franxx</item>
+        <item>Death Parade</item>
+        <item>Deadman Wonderland</item>
+        <item>Demon Slayer</item>
+        <item>Digimon Fusion</item>
+        <item>Dr.Stone</item>
+        <item>Dragon Ball</item>
+        <item>Dungeon ni Deai</item>
+        <item>Dramatical murder</item>
+        <item>Dragons Dogma</item>
+        <item>Dragon Quest</item>
         <item>Elfen Lied</item>
         <item>Fullmetal Alchemist</item>
+        <item>Fairy Tail</item>
+        <item>Fate/Grand Order</item>
+        <item>Fate/Stay Night</item>
+        <item>Fate/Zero</item>
+        <item>Fruits Basket</item>
         <item>Guilty Crown</item>
         <item>Hunter X Hunter</item>
         <item>Inazuma Eleven</item>

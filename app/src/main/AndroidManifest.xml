@@ -12,6 +12,9 @@
         android:theme="@style/Theme.Words"
         tools:targetApi="31">
         <activity
+            android:name=".DetailActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
